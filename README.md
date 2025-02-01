@@ -1,5 +1,5 @@
 ## ***`IMPORTANT`***
-
+dinguschan stole this file :D
 DINGUSPROXY IS NOW DEPRICATED. PLEASE MIGRATE TO HELIOS BROWSER INSTEAD (https://github.com/dinguschan-owo/Helios). Helios is a better version of dingusproxy with faster fetching, tabs, and a whole other host of new features. dingusproxy will no longer be recieiving support or updates, but Helios will be and will be for the forseeable future. It is still very much in development so if you would like to help PLEASE create an issue so I see it.
 
 ## ***`𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠`***
